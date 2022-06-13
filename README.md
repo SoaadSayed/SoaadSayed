@@ -19,13 +19,13 @@
 
 
 ### :woman_technologist: About Me :
-  I am Soaad Sayed. An enthusiastic Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+  I am Soaad Sayed. A Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
   
 :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I like to paint, and read scientific articles about cosmology and astronomy.
+- :zap: In my free time, I like to Watch Movies & Series, and Cook.
 
 - :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/soaad-sayed/)
 
